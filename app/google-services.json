@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "692486440819",
+    "firebase_url": "https://fir-notificationtutorial-92a96.firebaseio.com",
+    "project_id": "fir-notificationtutorial-92a96",
+    "storage_bucket": "fir-notificationtutorial-92a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692486440819:android:fa590b91b10d1e92",
+        "android_client_info": {
+          "package_name": "emre.com.firebasenotificationtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692486440819-rbc6dglr6g48218mbsm1lml8kvkfh8jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYkHgliH8-fW92Bx4inBfpqr-EcVZIh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
