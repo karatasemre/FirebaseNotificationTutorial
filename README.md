@@ -9,32 +9,32 @@ Today we are going to learn how to add Firebase Push Notification Perk to your A
 
 
 
-Step 1: Sign in to your Gmail Account and Create a New Project in Firebase Console : https://console.firebase.google.com/
+## Step 1: Sign in to your Gmail Account and Create a New Project in Firebase Console : https://console.firebase.google.com/
 
 <a href="https://imgur.com/HqTwsbT"><img src="https://i.imgur.com/HqTwsbT.png" title="source: imgur.com" /></a>
 
 
-Step 2: Clicking on Add Project will pop this dialog up:
+## Step 2: Clicking on Add Project will pop this dialog up:
 
 <a href="https://imgur.com/rbKMhzC"><img src="https://i.imgur.com/rbKMhzC.png" title="source: imgur.com" /></a>
 
 
-Step 3: Now click that green button in the middle for adding firebase to android app:
+## Step 3: Now click that green button in the middle for adding firebase to android app:
 
 <a href="https://imgur.com/UCdiN0I"><img src="https://i.imgur.com/UCdiN0I.png" title="source: imgur.com" /></a>
 
 
-Step 4: Enter Package Name and SHA1 Key for step one:
+## Step 4: Enter Package Name and SHA1 Key for step one:
 
 <a href="https://imgur.com/enIBLWS"><img src="https://i.imgur.com/enIBLWS.png" title="source: imgur.com" /></a>
 
 
-Step 5: Now Download the googleservices.json file and place in your Android Project.
+## Step 5: Now Download the googleservices.json file and place in your Android Project.
 
 <a href="https://imgur.com/2KfYwzr"><img src="https://i.imgur.com/2KfYwzr.png" title="source: imgur.com" /></a>
 
 
-Step 6: Now Add the below two lines in respective build.gradle files:
+## Step 6: Now Add the below two lines in respective build.gradle files:
 
 <a href="https://imgur.com/7CT2XYs"><img src="https://i.imgur.com/7CT2XYs.png" title="source: imgur.com" /></a>
 
@@ -102,14 +102,14 @@ Another Imp Note: And register both these files in your Projects AndroidManifest
   <a href="https://imgur.com/1FtMD04"><img src="https://i.imgur.com/1FtMD04.png" title="source: imgur.com" /></a>
   
   
-Step 7: And Now Go back to Firebase Console and Go to Cloud Messaging from Side Menu which will open this screen:
+## Step 7: And Now Go back to Firebase Console and Go to Cloud Messaging from Side Menu which will open this screen:
 
 <a href="https://imgur.com/sHmW160"><img src="https://i.imgur.com/sHmW160.png" title="source: imgur.com" /></a>
 
 
-Step 8: Now just enter Notification Message and select your app package name to send the push.
+## Step 8: Now just enter Notification Message and select your app package name to send the push.
 
 <a href="https://imgur.com/O2yRor8"><img src="https://i.imgur.com/O2yRor8.png" title="source: imgur.com" /></a>
 
 
-Step 9: Hopefully if you have performed each step then you will get the push notification in your device.
+## Step 9: Hopefully if you have performed each step then you will get the push notification in your device.
